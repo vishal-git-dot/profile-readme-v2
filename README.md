@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vishal-git-dot/vishal-git-dot/main/assets/header-animated.svg" width="100%" alt="Vishal Purushothaman animated header" />
+<img src="assets/header-animated.svg" width="100%" alt="Vishal Purushothaman animated header" />
 
 <br/>
 
