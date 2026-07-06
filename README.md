@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-animated.svg" width="100%" alt="Vishal Purushothaman animated header" />
+<img src="https://raw.githubusercontent.com/vishal-git-dot/profile-readme-v2/main/assets/header-animated.svg" width="100%" alt="Vishal Purushothaman animated header" />
 
 <br/>
 
@@ -90,9 +90,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-git-dot/vishal-git-dot/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-git-dot/vishal-git-dot/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vishal-git-dot/vishal-git-dot/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-git-dot/profile-readme-v2/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-git-dot/profile-readme-v2/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vishal-git-dot/profile-readme-v2/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
